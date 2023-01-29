@@ -27,9 +27,6 @@ ASCB Bank is a fictional bank that conducted a marketing campaign recently in or
 
 
 ## Conculsions
-* The average response rate is 11.7 %
-* Job categories that have the top 2 average response rates are 'student' and 'retired'
-* 4 job categories have a response rate of less than 9%.
-* Job categories is the average income equal to or higher than 55000 and the average response rate higher than the average of all the customers are 'management' and 'retired'
-* Balance for the customers who responded 'yes' to the campaign is lower than the average balance of those who responded 'no' to the campaign for unemployed category
- 
+* Historically, the trends have shown that most working professionals(categories other than the student and retired) have a much higher response rate to the campaign than the student or the retired category. But here we see that it is not the case. ('student' and 'retired') have highest respose rate on average.
+* The given result shows that the two categories which generally don't have high response rates have now shown the highest response rate. Thus the insight is a surprising extreme.
+* There are 4 (blue-collar, entrepreneur, housemaid,services )categories which follow a certain trend that might be insightful was unknown to us previously, it follows the 'unknown result' pattern of insight.
