@@ -8,11 +8,11 @@ ASCB Bank is a fictional bank that conducted a marketing campaign recently in or
 
 #### 1. What is the average response rate across all the customers?
 * The average response rate is 11.7 %
-* fig
+<kbd>  ![](fih/Capture.PNG)  </kbd>
 
 #### 2. Which are the job categories that have the top 2 average response rates?
 * job categories that have the top 2 average response rates are 'student' and 'retired'
-* fig2
+<kbd>  ![](fih/2.PNG)  </kbd>
  
 #### 3. How many job categories have a response rate of less than than 9%.
 * 4 job categories have a response rate of less than 9%.
